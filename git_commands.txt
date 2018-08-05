@@ -1,0 +1,21 @@
+git --version
+git config user.name "NasirUddin93"
+git config user.emal "nasir93cse@gmail.com"
+git config --list
+git help config
+git config --help
+git add --help
+ls
+la
+git init
+cd /c
+git clone https:........git
+git add file.txt
+rd .git /S/Q
+git add -A
+git add .
+git status
+git commit -m "First comit" file.txt
+git remote add origin https.......git
+git push -u origin master
+git push -f github master
