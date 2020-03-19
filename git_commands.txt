@@ -23,6 +23,18 @@ git push -f github master
 mkdir folderName
 cd folderName
 touch fileName.extention                     //New file will be created on this directory
+git add first.txt           /// Add to git
+git add .
+git commit               ///
+i             //Inset text as comment 
+:x   // to continue
+git log   // To show previous created git 
+clear /// clear the git bash console
+
+
+
+
+
 
 
 
