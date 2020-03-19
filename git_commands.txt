@@ -7,7 +7,7 @@ git config --help
 git add --help
 ls
 la
-git init
+git init               
 cd /c
 git clone https:........git
 git add file.txt
@@ -21,5 +21,9 @@ git push -u origin master
 git push -f github master
 
 mkdir folderName
+cd folderName
+touch fileName.extention                     //New file will be created on this directory
+
+
 
 
