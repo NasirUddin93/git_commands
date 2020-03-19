@@ -19,3 +19,7 @@ git commit -m "First comit" file.txt
 git remote add origin https.......git
 git push -u origin master
 git push -f github master
+
+mkdir folderName
+
+
