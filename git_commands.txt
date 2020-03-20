@@ -40,6 +40,17 @@ git clone gitURL rename
 git push origin master
 
 
+==========================Advance Lavel==========================
+
+git branch                   //shw the git branch
+git branch branchName   // Create a new branch
+git checkout branchName
+
+
+
+
+
+
 
 
 
