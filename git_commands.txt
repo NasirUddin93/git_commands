@@ -30,6 +30,9 @@ i             //Inset text as comment
 :x   // to continue
 git log   // To show previous created git 
 clear /// clear the git bash console
+git diff   //Fine the changes in ext file
+
+
 
 
 
