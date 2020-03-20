@@ -36,6 +36,8 @@ git diff staged
 git diff gitID gitID2   / Difference between two gits
 git rm fileName  /// Remove from both working directory and git
 git checkout gitId fileName  // Back to specific git
+git clone gitURL rename
+
 
 
 
