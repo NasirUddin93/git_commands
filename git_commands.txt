@@ -45,12 +45,7 @@ git push origin master
 git branch                   //shw the git branch
 git branch branchName   // Create a new branch
 git checkout branchName
-git marge branchName   //branch with directory branch
-
-
-
-
-
+git merge branchName // merge with directory branch
 
 
 
