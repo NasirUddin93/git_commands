@@ -26,11 +26,17 @@ touch fileName.extention                     //New file will be created on this 
 git add first.txt           /// Add to git
 git add .
 git commit               ///
+git commit -m "MSG"
 i             //Inset text as comment 
 :x   // to continue
 git log   // To show previous created git 
 clear /// clear the git bash console
-git diff   //Fine the changes in ext file
+git diff   //difference the changes in ext file
+git diff staged
+git diff gitID gitID2   / Difference between two gits
+git rm fileName  /// Remove from both working directory and git
+git checkout gitId fileName  // Back to specific git
+
 
 
 
