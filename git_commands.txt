@@ -25,6 +25,7 @@ cd folderName
 touch fileName.extention                     //New file will be created on this directory
 git add first.txt           /// Add to git
 git add .
+git add --all
 git commit               ///
 git commit -m "MSG"
 i             //Inset text as comment 
